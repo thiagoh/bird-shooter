@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">bird-shooter</string>
+
+    <string name="title_activity_bird_shooter_game">BirdShooterGame</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
